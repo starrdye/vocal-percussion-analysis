@@ -1,0 +1,51 @@
+# Audio data (large files, not needed for version control)
+audio_data/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Generated audio files
+*.wav
+ode_to_joy_*.wav
+
+# Generated dashboard images
+dashboard_*.png
+
+# Image files generated for the report
+*.png
+!public/*.png
+
+# Hidden AI output folders
+.claude/
+
+# Archived unrelated and sensitive project files
+archive/
+
+# Raw ENST drums dataset (not used once hits are extracted)
+ENST-drums-dataset-master/
+
+# Word Documents
+*.docx
+
+# Phase 3 files (not included at this moment)
+*phase3*
+audio_data/*/Phase 3/
+extract_drum_hits.py
+
+# Documents and planning
+report_plan.md
+report_student.docx
+Xingye_ISC_report.docx
+~$report.docx
