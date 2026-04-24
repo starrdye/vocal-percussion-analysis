@@ -5,9 +5,9 @@
 ---
 
 **Author:** Zhou Xingye
-**Supervisor:** Tan Dayang
+**Supervisor:** Da Yang Tan
 **Date:** April 2026
-**Module:** Independent Study Component (ISC)
+**Module:** Independent Study Course (ISC)
 
 ---
 
